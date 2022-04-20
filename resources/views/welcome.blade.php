@@ -146,7 +146,7 @@
                         <li><a href="https://www.heroku.com/platform">Heroku</a></li>
                         <li><a href="https://github.com/laravel/ui">Laravel UI</a></li>
                         <li><a href="https://laravel.com/">Laravel</a></li>
-                        <li><a href="#">Github Repo</a></li>
+                        <li><a href="https://github.com/quanticheart/fiap-devops">Github Repo</a></li>
                     </ul>
                 </div>
             </div>
