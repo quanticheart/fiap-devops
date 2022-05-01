@@ -17,4 +17,5 @@ cd $DIR/
 cd ../../
 heroku git:remote -a $REPO
 
+git add .
 git push heroku $BRANCH
