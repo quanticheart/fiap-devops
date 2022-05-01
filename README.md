@@ -7,6 +7,8 @@
 projeto simples para a diciplina de CLOUD ARCHITECTURE & DEVOPS com intuito de criar uma esteira de entrega continua
 utilizando o servidor Heroku com um projeto php usando laravel
 
+- [Link do Projeto no HEROKU](https://fiap-pipeline.herokuapp.com/)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
