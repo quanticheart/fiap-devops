@@ -1,6 +1,7 @@
 #! /bin/bash
 DIR=`dirname $0`
 
+chmod u+x $DIR/env.command
 chmod u+x $DIR/login.command
 chmod u+x $DIR/repo.command
 chmod u+x $DIR/deploy.command
