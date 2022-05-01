@@ -54,7 +54,7 @@
 
 <!-- For Demo Purpose -->
 <div class="container py-5 justify-content-center text-center">
-    <h2 class="h3 font-weight-bold">Sobre o conteudo:</h2>
+    <h2 class="h3 font-weight-bold">Sobre o conteudo da página:</h2>
     <div class="row justify-content-center">
         <div class="mb-4">
             <p class="font-italic text-muted">
