@@ -31,12 +31,15 @@ utilizando o servidor Heroku com um projeto php usando laravel
 <a href="https://devcenter.heroku.com/articles/github-integration">Github integration</a>
 </p>
 
-#
-#
-#
-#
-#
+<p align="center">
+<a href="https://github.com/AkhileshNS/heroku-deploy">AkhileshNS: heroku-deploy</a>
+- 
+<a href="https://dev.to/kavishsanghvi/deploying-web-application-on-cicd-pipeline-using-heroku-and-github-actions-714">dev.to: Github Actions</a>
+</p>
 
+# 
+# 
+# 
 <div style="margin-left: auto;
             margin-right: auto;
             width: 30%">
